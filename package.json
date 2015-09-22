@@ -1,0 +1,19 @@
+{
+  "name": "thinkful-auth-150922",
+  "version": "1.0.0",
+  "description": "dAuth workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolgaek/thinkful-auth-150922.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolgaek/thinkful-auth-150922/issues"
+  },
+  "homepage": "https://github.com/tolgaek/thinkful-auth-150922#readme"
+}
